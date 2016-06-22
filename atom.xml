@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>简单就好</title>
+  <subtitle>deal-with-it</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://smellok.github.io/"/>
+  <updated>2016-06-20T12:37:43.000Z</updated>
+  <id>http://smellok.github.io/</id>
+  
+  <author>
+    <name>smellok</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>travel-Beijing</title>
+    <link href="http://smellok.github.io/2016/06/19/travel-Beijing/"/>
+    <id>http://smellok.github.io/2016/06/19/travel-Beijing/</id>
+    <published>2016-06-19T20:16:00.000Z</published>
+    <updated>2016-06-20T12:37:43.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;北京旅游&quot;&gt;&lt;a href=&quot;#北京旅游&quot; class=&quot;headerlink&quot; title=&quot;北京旅游&quot;&gt;&lt;/a&gt;北京旅游&lt;/h1&gt;&lt;h2 id=&quot;Day1-出发&quot;&gt;&lt;a href=&quot;#Day1-出发&quot; class=&quot;headerlink&quot; title=&quot;Day1 - 出发&quot;&gt;&lt;/a&gt;Day1 - 出发&lt;/h2&gt;&lt;h3 id=&quot;机场&quot;&gt;&lt;a href=&quot;#机场&quot; class=&quot;headerlink&quot; title=&quot;机场&quot;&gt;&lt;/a&gt;机场&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;travel-Beijing/g.jpg&quot; alt=&quot;A380大飞机&quot;&gt;&lt;br&gt;双层的巴士我坐过，不过双层的飞机还是第一次。大！&lt;br&gt;&lt;img src=&quot;travel-Beijing/g.jpg&quot; alt=&quot;娱乐设备&quot;&gt;&lt;br&gt;&lt;img src=&quot;travel-Beijing/g.jpg&quot; alt=&quot;娱乐设备&quot;&gt;&lt;br&gt;飞机上的娱乐设备，可以看视频、听歌、玩游戏！&lt;/p&gt;
+&lt;h3 id=&quot;鸟巢-水立方&quot;&gt;&lt;a href=&quot;#鸟巢-水立方&quot; class=&quot;headerlink&quot; title=&quot;鸟巢 水立方&quot;&gt;&lt;/a&gt;鸟巢 水立方&lt;/h3&gt;&lt;h2 id=&quot;Day2-故宫&quot;&gt;&lt;a href=&quot;#Day2-故宫&quot; class=&quot;headerlink&quot; title=&quot;Day2 - 故宫&quot;&gt;&lt;/a&gt;Day2 - 故宫&lt;/h2&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;北京旅游&quot;&gt;&lt;a href=&quot;#北京旅游&quot; class=&quot;headerlink&quot; title=&quot;北京旅游&quot;&gt;&lt;/a&gt;北京旅游&lt;/h1&gt;&lt;h2 id=&quot;Day1-出发&quot;&gt;&lt;a href=&quot;#Day1-出发&quot; class=&quot;headerlink&quot; title=&quot;Day
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
